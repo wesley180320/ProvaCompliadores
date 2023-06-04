@@ -1,0 +1,35 @@
+citat
+vytlacit
+pre
+koncovy 
+doraz
+v
+kym
+robit
+ak
+Ak nie
+koniec Ak
+=
+cely
+text
+realny
+logicke
+to je
+alebo
+c
+vratit
+tlacit
+do
+koniec
+navrat
+>
+<
+>=
+<=
+==
+!=
+(
+)
+{
+}
+;

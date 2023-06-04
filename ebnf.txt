@@ -1,0 +1,31 @@
+NOTACAO EBNF
+<char> = {a..z}*
+-------------------------------
+Declaracoes de Tipagem
+<char> := a..z
+<var> := <char>0..9
+<type> := d | f | s | c
+<op.arit> := + | - | * | / 
+<numero> := 0..9
+<varnum> := <var> | <num>
+inteiro <var>;
+int <var>;
+ler <var>;
+<var> = <varnum> <op.arit> <varnum>;
+imprimir <var>;
+para <var> de <num> ate <num> entao
+fimpara
+se <var> <op.rel> <num> entao
+fimse
+---------------
+inteiro x;
+int y;
+inteiro i;
+scanf("%d", &x):
+y = x * 2;
+for (i=0;i<y;i++){
+   if (i>10){
+     printf("%d passou de 10", i);
+   }
+}
+return 0;

@@ -1,0 +1,18 @@
+cely x;
+int y;
+cely i;
+cely a;
+citat x;
+y = x * 2;
+pre i v 1 kym 10 robit
+ak y > 10 potom
+vytlacit 10
+koniec Ak
+koncovy doraz
+ak a > 5 potom
+tlacit;
+koniec Ak
+ak a = 3 potom
+tlacit;
+koniec Ak
+navrat 0
